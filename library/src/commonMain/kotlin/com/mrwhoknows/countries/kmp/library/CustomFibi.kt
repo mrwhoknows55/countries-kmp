@@ -1,3 +1,5 @@
+package com.mrwhoknows.countries.kmp.library
+
 val fibi = sequence {
     var a = firstElement
     yield(a)

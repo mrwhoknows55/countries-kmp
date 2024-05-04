@@ -3,7 +3,7 @@ plugins {
 }
 
 allprojects {
-    group = "org.jetbrains.kotlinx.multiplatform-library-template"
+    group = "com.mrwhoknows.countries.kmp.library"
     version = "0.0.1"
 }
 

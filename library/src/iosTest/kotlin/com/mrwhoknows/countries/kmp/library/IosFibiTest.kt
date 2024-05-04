@@ -1,3 +1,5 @@
+package com.mrwhoknows.countries.kmp.library
+
 import kotlin.test.Test
 import kotlin.test.assertEquals
 

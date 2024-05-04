@@ -1,3 +1,4 @@
+import com.mrwhoknows.countries.kmp.library.fibi
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
